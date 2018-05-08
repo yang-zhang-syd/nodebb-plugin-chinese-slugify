@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nodebb-plugin-chinese-slugify@1.0.0",
+        "scope": null,
+        "escapedName": "nodebb-plugin-chinese-slugify",
+        "name": "nodebb-plugin-chinese-slugify",
+        "rawSpec": "1.0.0",
+        "spec": "1.0.0",
+        "type": "version"
+      },
+      "/home/user/nodebb"
+    ]
+  ],
+  "_from": "nodebb-plugin-chinese-slugify@1.0.0",
+  "_id": "nodebb-plugin-chinese-slugify@1.0.0",
+  "_inCache": true,
+  "_location": "/nodebb-plugin-chinese-slugify",
+  "_nodeVersion": "5.8.0",
+  "_npmUser": {
+    "name": "Yang Zhang",
+    "email": "yang.zhang@icloud.com"
+  },
+  "_npmVersion": "3.7.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nodebb-plugin-chinese-slugify@1.0.0",
+    "scope": null,
+    "escapedName": "nodebb-plugin-chinese-slugify",
+    "name": "nodebb-plugin-chinese-slugify",
+    "rawSpec": "1.0.0",
+    "spec": "1.0.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shrinkwrap": null,
+  "_spec": "nodebb-plugin-chinese-slugify@1.0.0",
+  "_where": "/home/user/nodebb",
+  "author": {
+    "name": "Yang Zhang"
+  },
+  "bugs": {
+    "url": "https://github.com/yang-zhang-syd/nodebb-plugin-chinese-slugify/issues"
+  },
+  "dependencies": {
+    "convert-chinese-to-pinyin": "^0.1.1"
+  },
+  "description": "Auto transliteration of slugs from Chinese to Pinyin.",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/yang-zhang-syd/nodebb-plugin-chinese-slugify#readme",
+  "keywords": [
+    "slugs",
+    "cyrillic"
+  ],
+  "license": "MIT",
+  "main": "plugin.js",
+  "maintainers": [
+    {
+      "name": "Yang Zhang",
+      "email": "yang.zhang@icloud.com"
+    }
+  ],
+  "name": "nodebb-plugin-chinese-slugify",
+  "nbbpm": {
+    "compatibility": "^1.7.0"
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang-zhang-syd/nodebb-plugin-chinese-slugify.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

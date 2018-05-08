@@ -1,0 +1,29 @@
+{
+  "id": "nodebb-plugin-chinese-slugify",
+  "name": "NodeBB Chinese Slugify",
+  "description": "Auto transliteration of slugs from Chinese to Pinyin.",
+  "url": "https://github.com/yang-zhang-syd/nodebb-plugin-chinese-slugify.git",
+  "library": "./plugin.js",
+  "hooks": [
+    {
+      "hook": "filter:category.create",
+      "method": "hooks.filters.categoryCreate"
+    },
+    {
+      "hook": "filter:category.update",
+      "method": "hooks.filters.categoryUpdate"
+    },
+    {
+      "hook": "filter:topic.create",
+      "method": "hooks.filters.topicCreate"
+    },
+    {
+      "hook": "filter:topic.edit",
+      "method": "hooks.filters.topicEdit"
+    },
+    {
+      "hook": "filter:user.create",
+      "method": "hooks.filters.userCreate"
+    }
+  ]
+}
