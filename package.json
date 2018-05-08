@@ -2,19 +2,19 @@
   "_args": [
     [
       {
-        "raw": "nodebb-plugin-chinese-slugify@1.0.0",
+        "raw": "nodebb-plugin-chinese-slugify@1.0.1",
         "scope": null,
         "escapedName": "nodebb-plugin-chinese-slugify",
         "name": "nodebb-plugin-chinese-slugify",
-        "rawSpec": "1.0.0",
-        "spec": "1.0.0",
+        "rawSpec": "1.0.1",
+        "spec": "1.0.1",
         "type": "version"
       },
       "/home/user/nodebb"
     ]
   ],
-  "_from": "nodebb-plugin-chinese-slugify@1.0.0",
-  "_id": "nodebb-plugin-chinese-slugify@1.0.0",
+  "_from": "nodebb-plugin-chinese-slugify@1.0.1",
+  "_id": "nodebb-plugin-chinese-slugify@1.0.1",
   "_inCache": true,
   "_location": "/nodebb-plugin-chinese-slugify",
   "_nodeVersion": "5.8.0",
@@ -25,19 +25,19 @@
   "_npmVersion": "3.7.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "nodebb-plugin-chinese-slugify@1.0.0",
+    "raw": "nodebb-plugin-chinese-slugify@1.0.1",
     "scope": null,
     "escapedName": "nodebb-plugin-chinese-slugify",
     "name": "nodebb-plugin-chinese-slugify",
-    "rawSpec": "1.0.0",
-    "spec": "1.0.0",
+    "rawSpec": "1.0.1",
+    "spec": "1.0.1",
     "type": "version"
   },
   "_requiredBy": [
     "#USER"
   ],
   "_shrinkwrap": null,
-  "_spec": "nodebb-plugin-chinese-slugify@1.0.0",
+  "_spec": "nodebb-plugin-chinese-slugify@1.0.1",
   "_where": "/home/user/nodebb",
   "author": {
     "name": "Yang Zhang"
@@ -77,5 +77,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
