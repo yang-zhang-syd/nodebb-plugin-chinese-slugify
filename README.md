@@ -17,3 +17,7 @@ List of NodeBB entities that will be processed and transliterated:
 ## Notes
 
 - Plugin only supports transliteration from Chinese to Pinyin.
+
+## Examples
+
+Examples can be found here: https://www.sydneybb.com/topic/26/shiyongnginxjianghttpdiaozhuandaohttps
